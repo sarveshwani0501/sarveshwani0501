@@ -102,7 +102,7 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 ## 💻 LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sarveshwani05?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sarvesh0501?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshwani0501&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvesh0501&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" alt="Contribution Graph" />
 </div>
 
 ---
