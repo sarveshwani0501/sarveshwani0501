@@ -24,7 +24,6 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 
 ### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" height="50"/>
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
