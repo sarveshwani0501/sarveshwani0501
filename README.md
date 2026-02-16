@@ -23,7 +23,7 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastify" alt="Backend" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
