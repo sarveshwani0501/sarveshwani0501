@@ -6,9 +6,9 @@
 
 ## 🌟 About Me
 
-**Sarvesh Wani** | 3rd Year Computer Engineering Student.
+**Sarvesh Wani** | 4th Year Computer Engineering Student.
 
-I'm a 3rd-year Computer Engineering student with a passion for full-stack development and problem solving. I love building end-to-end applications that create real impact and enjoy the process of turning ideas into clean, efficient, and scalable solutions.
+I'm a 4th-year Computer Engineering student with a passion for full-stack development and problem solving. I love building end-to-end applications that create real impact and enjoy the process of turning ideas into clean, efficient, and scalable solutions.
 
 ---
 
@@ -36,7 +36,6 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 ---
 
 ## 🏆 Achievements
-
 - 💻 **Full Stack Developer** with hands-on project experience
 - 🧩 **Problem Solver** passionate about algorithmic challenges
 - 🎯 **Continuous Learner** exploring new technologies
@@ -50,28 +49,24 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
   
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 🛡️ ScamRadar
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/Sarish05/ScamRadar)
+### LuminaTrace
 
-**AI-powered spam detection system for calls and emails.**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/sarveshwani0501/LuminaTrace)
+[![Live](https://img.shields.io/badge/Live-Demo-667eea?style=flat&logo=vercel)](https://www.luminatrace.tech)
 
-</td>
-<td width="33%" align="center">
-
-### 📝 BlogSpace
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/sarveshwani0501/BlogSpace)
-
-**Full-stack blogging platform built with the MERN stack.**
+**Observability platform for distributed Node.js systems — logs, metrics, and traces powered by Kafka, TimescaleDB, and Redis.**
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### ❤️ ASCVD Risk
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/sarveshwani0501/ASCVD-Risk-Assessment-and-Health-Improvement)
+### OptiShift
 
-**Healthcare app for cardiovascular disease risk assessment.**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/sarveshwani0501/Optishift)
+[![Live](https://img.shields.io/badge/Live-Demo-667eea?style=flat&logo=vercel)](https://optishift.vercel.app/)
+
+**AI-assisted hospital workforce scheduling platform built with Spring Boot and Timefold Solver.**
 
 </td>
 </tr>
@@ -98,7 +93,6 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 ## 🤝 Let's Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/sarvesh-wani-205104297/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
@@ -108,7 +102,6 @@ I'm a 3rd-year Computer Engineering student with a passion for full-stack develo
 <a href="mailto:wanisarvesh05@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
-
 </div>
 
 <div align="center">
