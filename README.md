@@ -17,7 +17,7 @@ I'm a 4th-year Computer Engineering student with a passion for full-stack develo
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js" alt="Languages" />
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
